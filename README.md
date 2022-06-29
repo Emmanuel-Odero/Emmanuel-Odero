@@ -1,4 +1,4 @@
-# Hi there # 👋
+# Hi there 👋
 I am <strong>Emmanuel Odero</strong>, A programmer and a gentleman.
 
 Here are some ideas to get you started:
