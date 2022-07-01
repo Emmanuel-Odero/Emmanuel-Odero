@@ -1,5 +1,5 @@
-# Jambo 👋
-Since I was young I have always been reffered to as <strong>Emmanuel Odero</strong> my naming was done without my consent nor approval, this is what lead me to be a programmer and a gentleman. I write my tale through code. Hope you find something instresting in this page.
+# Jambo! 👋
+Since I was young am reffered to as <strong>Emmanuel Odero</strong> my naming was done without my consent nor approval, this is what lead me to be a programmer and a gentleman. I write my tale through code. Hope you find something instresting in this page.
 
 ## ⚡ Am Kenyan 🇰🇪 so you know am a marathon runner...
 
