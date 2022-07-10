@@ -1,10 +1,10 @@
 # Jambo! 👋
-Since I was young am reffered to as <strong>Emmanuel Odero</strong> my naming was done without my consent nor approval, this is what lead me to be a programmer and a gentleman. I write my tale through code. Hope you find something instresting in this page.
+Am Emmanuel Odero, a scholar and a gentleman. At my spare time I narrate the the idea of a cosmological universe through code. Hope you find something instresting in this pages.
 
-## ⚡ Am Kenyan 🇰🇪 so you know am a marathon runner...
+## Am proudly Kenyan 🇰🇪 so you know am a marathon runner⚡...
 
 
-Here's gets me sleeping late:
+Here's what gets me sleeping late:
 
 - 🔭 I’m currently working on understanding and Using Blockchain
 - 🌱 I’m currently learning Web3
