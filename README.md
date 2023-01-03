@@ -1,4 +1,4 @@
-# Jambo! 👋
+# Hey! 😁
 Am Emmanuel Odero, a scholar and a gentleman. At my spare time I narrate the idea of a cosmological universe through code. Hope you find something instresting in this pages.
 
 ## Am a proud Kenyan Developer⚡...
