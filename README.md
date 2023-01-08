@@ -3,7 +3,6 @@ Am Emmanuel Odero, a scholar and a gentleman. At my spare time I narrate the ide
 
 ## Am a Fullstack Developer⚡...
 
-
 Here's what gets me sleeping late:
 pages
 - 🔭 I’m currently working on understanding and Using Blockchain
